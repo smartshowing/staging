@@ -1,0 +1,6 @@
+{{ define "main" }}
+  <article class="card">
+    {{ if .Title }}<h2 style="margin-top:0">{{ .Title }}</h2>{{ end }}
+    {{ .Content }}
+  </article>
+{{ end }}
