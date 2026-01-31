@@ -18,7 +18,7 @@
     <h1 style="margin-bottom:6px">{{ .Site.Title }}</h1>
 
 <nav>
-  <a href="{{ "/" | relURL }}">Overview root</a>
+  <a href="{{ .Site.BaseURL }}">Overview Site BaseURL</a>
   <a href="{{ "overview/" | relURL }}">Overview</a>
   <a href="{{ "how-it-works/" | relURL }}">How It Works</a>
   <a href="{{ "modes/" | relURL }}">Modes</a>
