@@ -16,16 +16,20 @@
 <body>
   <header>
     <h1 style="margin-bottom:6px">{{ .Site.Title }}</h1>
-    <nav>
-  <a href="/">Overview</a>
-  <a href="/how-it-works/">How It Works</a>
-  <a href="/modes/">Modes</a>
-  <a href="/zones/">Zones</a>
-  <a href="/devices/">Devices</a>
-  <a href="/whats-required/">What’s Required</a>
-  <a href="/privacy/">Privacy</a>
-  <a href="/getting-started/">Getting Started</a>
+
+<nav>
+  <a href="{{ "/" | relURL }}">Overview</a>
+  <a href="{{ "how-it-works/" | relURL }}">How It Works</a>
+  <a href="{{ "modes/" | relURL }}">Modes</a>
+  <a href="{{ "zones/" | relURL }}">Zones</a>
+  <a href="{{ "devices/" | relURL }}">Devices</a>
+  <a href="{{ "whats-required/" | relURL }}">What’s Required</a>
+  <a href="{{ "privacy/" | relURL }}">Privacy</a>
+  <a href="{{ "getting-started/" | relURL }}">Getting Started</a>
 </nav>
+
+
+
     <hr />
   </header>
 
