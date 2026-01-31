@@ -12,19 +12,21 @@ The sections below are organized by reading priority. Some sections provide core
 
 These sections explain what the system is, how it works, and when it is used.
 
-1. **[Overview](overview/)**  
+1. **[Overview](/staging/overview/)**  
+    [Overview relref]({{< relref "overview.md" >}})
+
    Remote showings and continuous property protection
 
-2. **[How the System Works](how-it-works/)**  
+2. **[How the System Works](/staging/how-it-works/)**  
    From arrival to exit, with continuous monitoring
 
-3. **[System Modes](modes/)**  
+3. **[System Modes](/staging/modes/)**  
    Stage Mode, Security Mode, Disabled Mode
 
-4. **[Zones](zones/)**  
+4. **[Zones](/zones/)**  
    Entry areas and interior awareness zones
 
-5. **[Devices Used](devices/)**  
+5. **[Devices Used](/devices/)**  
    Devices that enable remote showings and oversight
 
 6. **[What's Required](whats-required/)**  
