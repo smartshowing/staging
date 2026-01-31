@@ -8,14 +8,16 @@ title: "Zones"
 
 The **Exterior Entry / Exit Zone** is the area **outside the front door**.
 
-This zone is focused on **arrivals and access**, not movement inside the home.
+This zone is focused on **arrivals, access, and verification**, not movement inside the home.
 
 It typically includes:
 - The **doorbell** (detects someone ringing the bell)
 - A **remote lock box** (used for showings or service access)
-- Exterior motion or camera coverage near the door
+- An **exterior camera** near the front door
 
-This zone helps the system understand that **someone is attempting to enter or leave**, without assuming they are already inside.
+In addition to detecting visitors, the exterior camera is used to **verify that the lock box key was returned and properly closed after a showing**.
+
+This zone helps the system understand that **someone is attempting to enter or leave**, and confirms that the property is secured afterward, without assuming anyone is inside.
 
 ---
 
@@ -40,10 +42,12 @@ Each interior zone works independently, even if rooms are next to each other.
 
 The system treats these zones differently on purpose:
 
-- Exterior zone = **intent** (approaching, ringing, unlocking)
-- Interior zones = **presence** (someone is actually inside)
+- Exterior zone = **intent and verification**  
+  (ringing the doorbell, accessing the lock box, confirming it was closed)
+- Interior zones = **presence**  
+  (someone is actually inside the home)
 
-This prevents false triggers and keeps automations accurate.
+This separation prevents false triggers and ensures the home is properly secured after access.
 
 ---
 
