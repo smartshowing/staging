@@ -1,27 +1,33 @@
 {{ define "main" }}
   <article class="card">
-    <h2 style="margin-top:0">Smart Showing Kit</h2>
+    <h2 style="margin-top:0">{{ .Site.Title }}</h2>
     <p>
       This brochure explains how the Smart Showing Kit supports secure,
       remote property showings and continuous vacant-home protection.
     </p>
+
     <p>
-      Start with the <a href="/table-of-contents/">Table of Contents</a>
+      Start with the <a href="{{ "table-of-contents/" | relURL }}">Table of Contents</a>
       to follow the recommended reading order.
+    </p>
+
+    <p>
+      Some sections provide core understanding, while others serve as supporting or reference material
+      and are best accessed through the Table of Contents.
     </p>
   </article>
 
   <section class="card">
     <h3 style="margin-top:0">Recommended Reading</h3>
     <ol>
-      <li><a href="/overview/">Overview</a></li>
-      <li><a href="/how-it-works/">How the System Works</a></li>
-      <li><a href="/modes/">System Modes</a></li>
-      <li><a href="/zones/">Zones</a></li>
-      <li><a href="/devices/">Devices Used</a></li>
-      <li><a href="/whats-required/">What's Required</a></li>
-      <li><a href="/privacy/">Privacy</a></li>
-      <li><a href="/getting-started/">Getting Started</a></li>
+      <li><a href="{{ "overview/" | relURL }}">Overview</a></li>
+      <li><a href="{{ "how-it-works/" | relURL }}">How the System Works</a></li>
+      <li><a href="{{ "modes/" | relURL }}">System Modes</a></li>
+      <li><a href="{{ "zones/" | relURL }}">Zones</a></li>
+      <li><a href="{{ "devices/" | relURL }}">Devices Used</a></li>
+      <li><a href="{{ "whats-required/" | relURL }}">What’s Required</a></li>
+      <li><a href="{{ "privacy/" | relURL }}">Privacy</a></li>
+      <li><a href="{{ "getting-started/" | relURL }}">Getting Started</a></li>
     </ol>
   </section>
 {{ end }}
