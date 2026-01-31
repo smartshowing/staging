@@ -10,7 +10,7 @@ Diagrams are used to explain layout and flow—not technical implementation.
 
 ## Family Room Example Diagram
 
-![Family room layout showing system coverage](/images/diagrams/family-room-diagram.png)
+![Family room layout showing system coverage](/staging/images/diagrams/family-room-diagram.png)
 
 
 ### What This Diagram Shows
