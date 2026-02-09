@@ -21,19 +21,22 @@ These sections explain what the system is, how it works, and when it is used.
 3. **[System Modes](/staging/modes/)**  
    Stage Mode, Security Mode, Disabled Mode
 
-4. **[Zones](/staging/zones/)**
+4. **[Customization Options](/staging/customization-options/)**  
+   Optional lighting, narration, and experience adjustments
+
+5. **[Zones](/staging/zones/)**
    Entry areas and interior awareness zones
 
-5. **[Devices Used](/staging/devices/)**  
+6. **[Devices Used](/staging/devices/)**  
    Devices that enable remote showings and oversight
 
-6. **[What's Required](/staging/whats-required/)**  
+7. **[What's Required](/staging/whats-required/)**  
    Basic requirements for installation and operation
 
-7. **[Privacy](/staging/privacy/)**  
+8. **[Privacy](/staging/privacy/)**  
    Boundaries, disclosures, and privacy considerations
 
-8. **[Getting Started](/staging/getting-started/)**  
+9. **[Getting Started](/staging/getting-started/)**  
    Next steps and service initiation
 
 ---
@@ -42,11 +45,11 @@ These sections explain what the system is, how it works, and when it is used.
 
 These sections use diagrams to clarify layout and flow.
 
-9. **[System Diagrams](/staging/diagrams/)**  
+10. **[System Diagrams](/staging/diagrams/)**  
    Room-level and entry/exit visual examples
 
-10. **[Family Room Example](/staging/family-room-example/)**  
-    A representative interior zone walkthrough
+11. **[Family Room Example](/staging/family-room-example/)**  
+   A representative interior zone walkthrough
 
 ---
 
@@ -54,14 +57,14 @@ These sections use diagrams to clarify layout and flow.
 
 These sections provide deeper context and operational clarity.
 
-11. **[Entry / Exit Area](/staging/entry-exit-area/)**  
-    Controlled access at the front door
+12. **[Entry / Exit Area](/staging/entry-exit-area/)**  
+   Controlled access at the front door
 
-12. **[Interior Zones](/staging/interior-zones/)**  
-    Awareness within key living areas
+13. **[Interior Zones](/staging/interior-zones/)**  
+   Awareness within key living areas
 
-13. **[Vacant Home Protection](/staging/vacant-home-protection/)**  
-    Continuous monitoring between showings
+14. **[Vacant Home Protection](/staging/vacant-home-protection/)**  
+   Continuous monitoring between showings
 
 ---
 
@@ -69,23 +72,23 @@ These sections provide deeper context and operational clarity.
 
 These sections support disclosure, risk management, and service expectations.
 
-14. **[Notifications & Response](/staging/notifications-response/)**  
-    Alerts, escalation, and agent response
+15. **[Notifications & Response](/staging/notifications-response/)**  
+   Alerts, escalation, and agent response
 
-15. **[Data Handling & Retention](/staging/data-handling-retention/)**  
-    What information is used, stored, or cleared
+16. **[Data Handling & Retention](/staging/data-handling-retention/)**  
+   What information is used, stored, or cleared
 
-16. **[Security & Liability Considerations](/staging/security-liability/)**  
-    Seller and agent risk considerations
+17. **[Security & Liability Considerations](/staging/security-liability/)**  
+   Seller and agent risk considerations
 
-17. **[Service Model](/staging/service-model/)**  
-    Installation, management, and removal
+18. **[Service Model](/staging/service-model/)**  
+   Installation, management, and removal
 
-18. **[Who This Is For](/staging/who-this-is-for/)**  
-    Listings and clients that benefit most
+19. **[Who This Is For](/staging/who-this-is-for/)**  
+   Listings and clients that benefit most
 
-19. **[FAQ](/staging/faq/)**  
-    Common questions and clarifications
+20. **[FAQ](/staging/faq/)**  
+   Common questions and clarifications
 
 ---
 
