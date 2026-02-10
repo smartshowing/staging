@@ -1,11 +1,10 @@
 ---
+# content/customization-options/index.md
 title: "Customization Options"
 description: "Optional features that allow Smart Showing to be tailored to each property, agent preference, and showing style."
 weight: 45
 draft: false
 ---
-
-## Customization Options
 
 Smart Showing includes optional customization features that allow each property to be tailored to the agent’s preferences, listing characteristics, and showing style.
 
@@ -59,7 +58,10 @@ Narration can be customized for each property and updated remotely as listing de
 
 ---
 
+
 ## Custom Realtor Narration Messages
+
+![Custom Realtor Narration Message](tts-text.png)
 
 Agents may customize the messages visitors hear throughout the property.
 
@@ -91,6 +93,8 @@ This allows narration to match the layout and size of each property.
 ---
 
 ## Audio Volume Control
+
+![Narration Audio Volume Control](audio-volume.png)
 
 Smart Showing allows adjustable narration volume levels.
 
@@ -163,4 +167,4 @@ For additional details on system behavior and visitor interaction, see:
 • How It Works  
 • Modes  
 • Notifications & Response  
-• Zones  
+• Zones
