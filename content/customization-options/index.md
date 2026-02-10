@@ -61,7 +61,16 @@ Narration can be customized for each property and updated remotely as listing de
 
 ## Custom Realtor Narration Messages
 
+Agents may customize the messages visitors hear throughout the property.
+
+The example below shows how narration text can be customized and automatically converted into spoken announcements during a showing.
+
 ![Custom Realtor Narration Message](tts-text.png)
+
+### Sample Welcome Narration Voice
+
+[Sample Welcome Narration Voice](/staging/customization-options/welcome.mp3)
+
 
 Agents may customize the messages visitors hear throughout the property.
 
@@ -72,6 +81,7 @@ Examples include:
 • Appliance or system guidance  
 • Community or neighborhood highlights  
 • Exit reminders  
+
 
 If no custom message is configured, Smart Showing can provide a simple default greeting.
 
