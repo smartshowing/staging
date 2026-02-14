@@ -59,7 +59,7 @@ You can connect using either the mobile app **or** a computer web browser.
 1. Open the Home Assistant app.
 2. It should automatically detect:
 
-   **Smart Showing™ (http://smartshowing.local)**
+   **Smart Showing™ (http://smartshowing.local:8123)**
 
 3. Tap the detected server.
 4. Log in using the credentials provided with your Smart Showing™ kit.
@@ -72,7 +72,7 @@ You can connect using either the mobile app **or** a computer web browser.
 2. Open a web browser.
 3. Enter:
 
-   **http://smartshowing.local**
+   **http://smartshowing.local:8123**
 
 4. Log in using the credentials provided with your Smart Showing™ kit.
 
