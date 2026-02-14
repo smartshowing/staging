@@ -1,4 +1,7 @@
-baseURL = "http://localhost:1313/"
+# baseURL = "http://localhost:1313/"  # Local development URL
+
+# Production base URL
+baseURL = "https://smartshowing.github.io/staging/"
 
 languageCode = 'en-us'
 title = "Smart Showing Kit"
