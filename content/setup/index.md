@@ -1,13 +1,11 @@
 ---
-title: "Smart Showing™ Setup Guide"
+title: "🏡 Smart Showing™ Setup Guide"
 description: "Step-by-step beginner setup instructions for Smart Showing™. Connect your device, install the app, and get ready for showings in minutes."
 weight: 10
 draft: false
 ---
 
-# 🏡 Smart Showing™ Setup Guide
-
-Welcome!  
+Welcome!
 Your Smart Showing™ system is pre-configured and ready to use.
 
 Setup takes about **5–10 minutes**.
