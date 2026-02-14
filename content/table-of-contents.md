@@ -12,31 +12,31 @@ The sections below are organized by reading priority. Some sections provide core
 
 These sections explain what the system is, how it works, and when it is used.
 
-1. **[Overview](/staging/overview/)**
+1. **[Overview](/overview/)**
    Remote showings and continuous property protection
 
-2. **[How the System Works](/staging/how-it-works/)**  
+2. **[How the System Works](/how-it-works/)**  
    From arrival to exit, with continuous monitoring
 
-3. **[System Modes](/staging/modes/)**  
+3. **[System Modes](/modes/)**  
    Stage Mode, Security Mode, Disabled Mode
 
-4. **[Customization Options](/staging/customization-options/)**  
+4. **[Customization Options](/customization-options/)**  
    Optional lighting, narration, and experience adjustments
 
-5. **[Zones](/staging/zones/)**
+5. **[Zones](/zones/)**
    Entry areas and interior awareness zones
 
-6. **[Devices Used](/staging/devices/)**  
+6. **[Devices Used](/devices/)**  
    Devices that enable remote showings and oversight
 
-7. **[What's Required](/staging/whats-required/)**  
+7. **[What's Required](/whats-required/)**  
    Basic requirements for installation and operation
 
-8. **[Privacy](/staging/privacy/)**  
+8. **[Privacy](/privacy/)**  
    Boundaries, disclosures, and privacy considerations
 
-9. **[Getting Started](/staging/getting-started/)**  
+9. **[Getting Started](/getting-started/)**  
    Next steps and service initiation
 
 ---
@@ -45,10 +45,10 @@ These sections explain what the system is, how it works, and when it is used.
 
 These sections use diagrams to clarify layout and flow.
 
-10. **[System Diagrams](/staging/diagrams/)**  
+10. **[System Diagrams](/diagrams/)**  
    Room-level and entry/exit visual examples
 
-11. **[Family Room Example](/staging/family-room-example/)**  
+11. **[Family Room Example](/family-room-example/)**  
    A representative interior zone walkthrough
 
 ---
@@ -57,17 +57,16 @@ These sections use diagrams to clarify layout and flow.
 
 These sections provide deeper context and operational clarity.
 
-12. **[Entry / Exit Area](/staging/entry-exit-area/)**  
+12. **[Entry / Exit Area](/entry-exit-area/)**  
    Controlled access at the front door
 
-13. **[Interior Zones](/staging/interior-zones/)**  
+13. **[Interior Zones](/interior-zones/)**  
    Awareness within key living areas
 
-14. **[Vacant Home Protection](/staging/vacant-home-protection/)**  
+14. **[Vacant Home Protection](/vacant-home-protection/)**  
    Continuous monitoring between showings
 
 ---
-
 
 ## Operational & Reference Sections
 
