@@ -87,7 +87,7 @@ You can connect using either the mobile app **or** a computer web browser.
 
 ---
 
-# 📶 Step 4 – Connect to Property Wi-Fi
+# 📶 (Optional) Step 4 – Connect to Property Wi-Fi
 
 Inside the app:
 
