@@ -1,4 +1,4 @@
-# Smart Showing™
+# Smart Showing 1™
 
 Professional automated property presentation for real estate listings.
 
