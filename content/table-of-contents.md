@@ -12,19 +12,19 @@ The sections below are organized by reading priority. Some sections provide core
 
 These sections explain what the system is, how it works, and when it is used.
 
-1. **[Overview](/overview/)**
+1. **[Overview](overview/)**
    Remote showings and continuous property protection
 
-2. **[How the System Works](/how-it-works/)**  
+2. **[How the System Works](how-it-works/)**  
    From arrival to exit, with continuous monitoring
 
-3. **[System Modes](/modes/)**  
+3. **[System Modes](modes/)**  
    Stage Mode, Security Mode, Disabled Mode
 
-4. **[Customization Options](/customization-options/)**  
+4. **[Customization Options](customization-options/)**  
    Optional lighting, narration, and experience adjustments
 
-5. **[Zones](/zones/)**
+5. **[Zones](zones/)**
    Entry areas and interior awareness zones
 
 6. **[Devices Used](/devices/)**  
