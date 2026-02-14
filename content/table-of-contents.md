@@ -68,26 +68,30 @@ These sections provide deeper context and operational clarity.
 
 ---
 
+
 ## Operational & Reference Sections
 
-These sections support disclosure, risk management, and service expectations.
+These sections support deployment, disclosure, risk management, and service expectations.
 
-15. **[Notifications & Response](/staging/notifications-response/)**  
+15. **[Setup](/setup/)**  
+   Installation and activation
+
+16. **[Notifications & Response](/notifications-response/)**  
    Alerts, escalation, and agent response
 
-16. **[Data Handling & Retention](/staging/data-handling-retention/)**  
+17. **[Data Handling & Retention](/data-handling-retention/)**  
    What information is used, stored, or cleared
 
-17. **[Security & Liability Considerations](/staging/security-liability/)**  
+18. **[Security & Liability Considerations](/security-liability/)**  
    Seller and agent risk considerations
 
-18. **[Service Model](/staging/service-model/)**  
+19. **[Service Model](/service-model/)**  
    Installation, management, and removal
 
-19. **[Who This Is For](/staging/who-this-is-for/)**  
+20. **[Who This Is For](/who-this-is-for/)**  
    Listings and clients that benefit most
 
-20. **[FAQ](/staging/faq/)**  
+21. **[FAQ](/faq/)**  
    Common questions and clarifications
 
 ---

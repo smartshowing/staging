@@ -1,33 +1,58 @@
 {{ define "main" }}
   <article class="card">
     <h2 style="margin-top:0">{{ .Site.Title }}</h2>
+
     <p>
-      This brochure explains how the Smart Showing Kit supports secure,
-      remote property showings and continuous vacant-home protection.
+      Smart Showing™ supports secure, automated property showings and continuous vacant-home protection.
     </p>
 
     <p>
-      Start with the <a href="{{ "table-of-contents/" | relURL }}">Table of Contents</a>
-      to follow the recommended reading order.
-    </p>
-
-    <p>
-      Some sections provide core understanding, while others serve as supporting or reference material
-      and are best accessed through the Table of Contents.
+      Start here: <a href="{{ "table-of-contents/" | relURL }}">Table of Contents</a>
     </p>
   </article>
 
   <section class="card">
-    <h3 style="margin-top:0">Recommended Reading</h3>
+    <h3 style="margin-top:0">Core Overview</h3>
     <ol>
       <li><a href="{{ "overview/" | relURL }}">Overview</a></li>
       <li><a href="{{ "how-it-works/" | relURL }}">How the System Works</a></li>
       <li><a href="{{ "modes/" | relURL }}">System Modes</a></li>
+      <li><a href="{{ "customization-options/" | relURL }}">Customization Options</a></li>
       <li><a href="{{ "zones/" | relURL }}">Zones</a></li>
       <li><a href="{{ "devices/" | relURL }}">Devices Used</a></li>
       <li><a href="{{ "whats-required/" | relURL }}">What’s Required</a></li>
       <li><a href="{{ "privacy/" | relURL }}">Privacy</a></li>
       <li><a href="{{ "getting-started/" | relURL }}">Getting Started</a></li>
+      <li><a href="{{ "setup/" | relURL }}">Setup</a></li>
+    </ol>
+  </section>
+
+  <section class="card">
+    <h3 style="margin-top:0">Visual References</h3>
+    <ol start="11">
+      <li><a href="{{ "diagrams/" | relURL }}">System Diagrams</a></li>
+      <li><a href="{{ "family-room-example/" | relURL }}">Family Room Example</a></li>
+    </ol>
+  </section>
+
+  <section class="card">
+    <h3 style="margin-top:0">Supporting Details</h3>
+    <ol start="13">
+      <li><a href="{{ "entry-exit-area/" | relURL }}">Entry / Exit Area</a></li>
+      <li><a href="{{ "interior-zones/" | relURL }}">Interior Zones</a></li>
+      <li><a href="{{ "vacant-home-protection/" | relURL }}">Vacant Home Protection</a></li>
+    </ol>
+  </section>
+
+  <section class="card">
+    <h3 style="margin-top:0">Operational & Reference</h3>
+    <ol start="16">
+      <li><a href="{{ "notifications-response/" | relURL }}">Notifications & Response</a></li>
+      <li><a href="{{ "data-handling-retention/" | relURL }}">Data Handling & Retention</a></li>
+      <li><a href="{{ "security-liability/" | relURL }}">Security & Liability Considerations</a></li>
+      <li><a href="{{ "service-model/" | relURL }}">Service Model</a></li>
+      <li><a href="{{ "who-this-is-for/" | relURL }}">Who This Is For</a></li>
+      <li><a href="{{ "faq/" | relURL }}">FAQ</a></li>
     </ol>
   </section>
 {{ end }}
