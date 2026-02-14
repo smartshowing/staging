@@ -50,25 +50,42 @@ Official website:
 https://www.home-assistant.io/
 
 ---
-
 # 🔎 Step 3 – Connect to Your Smart Showing™ System
+
+You can connect using either the mobile app **or** a computer web browser.
+
+---
+
+## 📱 Option A – Using the Home Assistant App
 
 1. Open the Home Assistant app.
 2. It should automatically detect:
 
+   **Smart Showing™ (http://smartshowing.local)**
 
+3. Tap the detected server.
+4. Log in using the credentials provided with your Smart Showing™ kit.
 
+---
 
+## 💻 Option B – Using a Computer or Browser
 
+1. Make sure your phone, tablet, or computer is connected to the same network.
+2. Open a web browser.
+3. Enter:
 
+   **http://smartshowing.local**
 
-If it does not appear automatically, open your web browser and enter:
+4. Log in using the credentials provided with your Smart Showing™ kit.
 
+---
 
+### If the system does not appear automatically:
 
-
-
-Log in using the credentials provided with your Smart Showing™ kit.
+- Confirm the Ethernet cable is connected.
+- Make sure your device is on the same network.
+- Try entering the IP address assigned by your router  
+  (example: `http://192.168.1.25`)
 
 ---
 
