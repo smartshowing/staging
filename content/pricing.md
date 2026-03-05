@@ -45,6 +45,8 @@ Help documentation is provided to explain system setup and operation.
 
 Phone, remote, or on-site technical support is not included with the kit purchase.
 
+The system is provided as a configured kit and does not include ongoing system administration.
+
 ---
 
 ## System Access
