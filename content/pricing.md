@@ -37,6 +37,16 @@ Installation is not included.
 
 ---
 
+## Support
+
+The Smart Home Kit is intended to operate as a self-managed system.
+
+Help documentation is provided to explain system setup and operation.
+
+Phone, remote, or on-site technical support is not included with the kit purchase.
+
+---
+
 ## System Access
 
 Clients receive **user-level credentials** for system access.
