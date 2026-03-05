@@ -18,20 +18,20 @@ Smart-home monitoring system for rental properties and vacant homes.
 
 Hardware included:
 
-- Raspberry Pi 4 server
-- 32 GB SSD storage
-- Zigbee USB coordinator
-- Google Nest Mini speaker
-- Zigbee PIR motion sensor
-- Zigbee smart power strip
+- Raspberry Pi 4 server  
+- 32 GB SSD storage  
+- Zigbee USB coordinator  
+- Google Nest Mini speaker  
+- Zigbee PIR motion sensor  
+- Zigbee smart power strip  
 
 Configuration included:
 
-- Home Assistant installed and configured
-- Zigbee devices pre-paired to the system
-- Client user credentials for system access
+- Home Assistant installed and configured  
+- Zigbee devices pre-paired to the system  
+- Client user credentials for system access  
 
-The Google Nest Mini must be connected by the user to their own Wi-Fi and Google account.
+The Google Nest Mini must be connected by the user to their own Wi-Fi network and Google account.
 
 Installation is not included.
 
@@ -39,13 +39,13 @@ Installation is not included.
 
 ## Support
 
-The Smart Home Kit is intended to operate as a self-managed system.
+The Smart Home Kit is designed to operate as a self-managed system.
 
 Help documentation is provided to explain system setup and operation.
 
 Phone, remote, or on-site technical support is not included with the kit purchase.
 
-The system is provided as a configured kit and does not include ongoing system administration.
+The kit is provided as a configured system and does not include ongoing system administration.
 
 ---
 
@@ -53,7 +53,7 @@ The system is provided as a configured kit and does not include ongoing system a
 
 Clients receive **user-level credentials** for system access.
 
-Owner and administrative credentials are retained for system configuration and maintenance.
+Administrative credentials are retained for system configuration and maintenance.
 
 ---
 
@@ -79,3 +79,7 @@ Usage fee: **$200 per month**
 | 4 months | $200 |
 
 After **4 months**, the system is considered fully purchased.
+
+---
+
+The system configuration, automation logic, and operational design remain proprietary and are not included in the kit purchase.
