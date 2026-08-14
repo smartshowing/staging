@@ -25,9 +25,20 @@ Examples include:
 - Deliveries
 - Other listing-related visits
 
-For example, before a scheduled showing the system may announce:
+For example, a real estate agent can create a normal calendar event for an upcoming showing and include the reminder schedule and spoken message.
 
-**30 minute reminder. A property showing is scheduled for 2:00 PM.**
+![Example calendar event for a scheduled home showing](calendar_event_card.png)
+
+In this example, the showing is scheduled for **2:00 PM** with reminders:
+
+- 1 hour before
+- 30 minutes before
+- 15 minutes before
+- 10 minutes before
+
+Smart Showing can announce:
+
+**30 minute reminder. A home showing is scheduled for 2:00 PM. Please have the home ready and plan to leave before the showing.**
 
 Additional reminders can be provided as the appointment approaches.
 
@@ -57,6 +68,10 @@ This allows the installed system to provide useful household support while the h
 More than one authorized person may participate in scheduling.
 
 For example, a real estate agent may manage showing-related appointments while the homeowner manages personal or family events.
+
+![Shared calendar showing a home showing and a family pickup event](calendar.png)
+
+In this example, the same calendar contains both a **Home Showing** scheduled by or for the real estate transaction and a **PICKUP — Rock** household event.
 
 The calendar provides a familiar interface for creating, updating, repeating, moving, or canceling events.
 
