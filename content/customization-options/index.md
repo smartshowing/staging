@@ -114,7 +114,9 @@ Volume may be configured to:
 • Increase clarity for security or alert announcements  
 • Maintain subtle ambient audio during staging modes  
 
-Volume adjustments occur automatically and do not require visitor interaction.
+Volume can be adjusted to suit the property, speaker location, and type of announcement.
+
+Calendar reminders and security announcements may use a more noticeable volume than optional showing narration.
 
 ---
 
@@ -151,9 +153,10 @@ Customization options automatically adapt based on Smart Showing operational mod
 
 For example:
 
+• Living Mode – Household reminders and selected convenience automation  
 • Showing Mode – Balanced lighting and guided narration  
 • Security Mode – Stronger alerts and security announcements  
-• Stage Mode – Subtle lighting and minimal audio  
+• Disabled Mode – Automation and narration temporarily suspended  
 
 This ensures the property behaves appropriately for different use cases.
 

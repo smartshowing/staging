@@ -2,9 +2,17 @@
 title: "How the System Works"
 ---
 
-The Smart Showing Kit is designed to operate quietly in the background, supporting the showing process from arrival to exit while maintaining continuous awareness of the property.
+The Smart Showing Kit is designed to operate quietly in the background, supporting the property while it is occupied, during active showings, and when it is vacant.
 
-The system follows a simple, predictable flow that aligns with how listings are actually shown.
+The system follows a simple, predictable flow that aligns with how listings are actually used throughout the listing period.
+
+## While the Home Is Occupied
+
+When the seller or other occupants are still living in the property, Smart Showing can operate in Living Mode.
+
+Authorized users may remotely schedule calendar-based voice reminders for upcoming showings, contractors, inspections, appointments, family activities, school schedules, pickups, and other events.
+
+This allows the system to provide useful day-to-day support while remaining ready for showing and security functions.
 
 ## Arrival
 
@@ -38,9 +46,11 @@ This ensures the property remains protected not only during scheduled showings, 
 
 ## Continuous Operation
 
-Throughout the listing period, the system operates continuously without requiring adjustment from the seller. Modes are managed as part of the service and adapted to how the property is being used.
+Throughout the listing period, the system can remain available as the property changes between occupied, showing, and vacant conditions.
 
-The result is a consistent, predictable experience that supports both showings and vacant-home protection.
+Calendar reminders, showing features, and security behavior can operate according to the current mode and configured preferences.
+
+The result is a consistent, predictable system that can support the homeowner, the real estate agent, active showings, and vacant-home protection.
 
 ---
 
