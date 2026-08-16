@@ -38,7 +38,20 @@ In this example, the showing is scheduled for **2:00 PM** with reminders:
 
 Smart Showing can announce:
 
-**30 minute reminder. A home showing is scheduled for 2:00 PM. Please have the home ready and plan to leave before the showing.**
+**60 minute reminder. A home showing is scheduled for 2:00 PM. Please have the home ready and plan to leave before the showing.**
+
+
+### Listen to a One-Hour Showing Reminder
+
+<audio controls preload="metadata">
+  <source src="home_showing.mp3" type="audio/mpeg">
+  Your browser does not support the audio player.
+</audio>
+
+> **One-hour reminder:** A home showing is scheduled for 2:00 p.m. Please have the home ready and plan to leave before the showing.
+
+
+
 
 Additional reminders can be provided as the appointment approaches.
 
@@ -102,20 +115,6 @@ For example, an 11:30 AM appointment could provide reminders:
 
 Smart Showing can announce both the remaining reminder interval and the event message.
 For example:
-
-<h2>Listen to a One-Hour Showing Reminder</h2>
-
-<audio controls preload="metadata">
-  <source src="home_showing.mp3" type="audio/mpeg">
-  Your browser does not support the audio player.
-</audio>
-
-> **One-hour reminder:** A home showing is scheduled for 2:00 p.m. Please have the home ready and plan to leave before the showing.
-
-
-
-
-
 
 **25 minute reminder. Pick up Rock from school at 11:30 AM.**
 
