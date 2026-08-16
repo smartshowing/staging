@@ -5,3 +5,6 @@ baseURL = "https://smartshowing.github.io/staging/"
 
 languageCode = 'en-us'
 title = "Smart Showing Kit"
+
+[markup.goldmark.renderer]
+unsafe = true
